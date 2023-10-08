@@ -1,3 +1,6 @@
+# Results folder
+Results/
+
 # Windows default autosave extension
 *.asv
 *.autosave
