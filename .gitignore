@@ -1,0 +1,6 @@
+# Results folder with saved figures
+Results/
+
+# Windows default autosave extension
+*.asv
+*.autosave
