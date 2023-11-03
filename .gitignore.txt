@@ -1,0 +1,6 @@
+# Exclude the results folder where figures are saved.
+Results/
+
+# Windows default autosave extension
+*.asv
+*.autosave
